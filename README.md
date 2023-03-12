@@ -30,7 +30,8 @@ In the console you can see how the program converts my voice into snake movement
 
 # How to play?
 
-* Download game.rar
+* [Click Here](https://github.com/Daniel8675/Snake_with_voice_control/releases)
+* From assets download "game.zip"
 * Extract the file to a folder
 * Click on the "main.exe" and enjoy 😃
 * It may take some time for the game to start up, no worries
